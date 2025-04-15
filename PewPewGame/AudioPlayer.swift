@@ -1,10 +1,3 @@
-//
-//  AudioPlayer.swift
-//  PewPewGame
-//
-//  Created by ticpucrs on 09/04/25.
-//
-
 import AVFoundation
 
 class AudioPlayer {
