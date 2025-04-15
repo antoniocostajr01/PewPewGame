@@ -1,10 +1,3 @@
-//
-//  Words.swift
-//  PewPewGame
-//
-//  Created by ticpucrs on 07/04/25.
-//
-
 class Words {
     static let easyWords: [String] = [
         "cat", "dog", "sun", "car", "cup", "pen", "book", "boy", "girl", "tree",
