@@ -1,10 +1,3 @@
-//
-//  Difficulty.swift
-//  PewPewGame
-//
-//  Created by ticpucrs on 07/04/25.
-//
-
 func selectDifficult() {
     let difficultyOptions: String = """
     
