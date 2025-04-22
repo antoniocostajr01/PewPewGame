@@ -142,6 +142,8 @@ func game(difficulty: String) {
     var status = ""
     var shouldAddWord = true
 
+
+    // Here in the sounds, you need to change the file address to your local directory
     let antonioPew = "/Users/ticpucrs/Desktop/PewPewGame/PewPewGame/Musics/Antonio’s pew.m4a"
     let gabrielPew = "/Users/ticpucrs/Desktop/PewPewGame/PewPewGame/Musics/Gabi’s pew.m4a"
     let loseSong = "/Users/ticpucrs/Desktop/PewPewGame/PewPewGame/Musics/Som da derrota.m4a"
